@@ -21,9 +21,12 @@ public class SumValidation {
 			sum = sum + amount;
 			
 		}
+		
 		System.out.println(sum);
 		int purchaseAmount =js.getInt("dashboard.purchaseAmount");
 		Assert.assertEquals(sum, purchaseAmount);
 		
+		
+		System.out.println(purchaseAmount);//added by mahi
 	}
 }
