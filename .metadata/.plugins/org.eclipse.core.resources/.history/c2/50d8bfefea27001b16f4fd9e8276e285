@@ -60,20 +60,13 @@ public class Basics {
 		sampletest();
 		sampletest11();
 
-		System.out.println("exiting"); // added by mahi
+		System.out.println("exiting");
 
 	}
 	public static  void sampletest() {
 		System.out.println("from the git learning session");
 	}
-	
-	// added by mahi
 	public static  void sampletest11() {
 		System.out.println("from the git learning session");
-		System.out.println("i am resuming the work from develop branch");
-	}
-	
-	public static  void sampletest12() {
-		System.out.println("***hello****");
 	}
 }
