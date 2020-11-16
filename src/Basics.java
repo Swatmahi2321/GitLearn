@@ -76,4 +76,13 @@ public class Basics {
 	public static  void sampletest12() {
 		System.out.println("***hello****");
 	}
+	public static  void sampletest123() {
+		System.out.println("***hello****");
+	}
+	public static  void sampletest124() {
+		System.out.println("***hello****");
+	}
+	public static  void sampletest125() {
+		System.out.println("***hello****");
+	}
 }
